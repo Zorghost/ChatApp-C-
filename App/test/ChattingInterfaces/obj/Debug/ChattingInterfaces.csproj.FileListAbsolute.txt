@@ -1,0 +1,6 @@
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingInterfaces\bin\Debug\ChattingInterfaces.dll
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingInterfaces\bin\Debug\ChattingInterfaces.pdb
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingInterfaces\obj\Debug\ChattingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingInterfaces\obj\Debug\ChattingInterfaces.dll
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingInterfaces\obj\Debug\ChattingInterfaces.pdb
+C:\Users\Rayen\source\repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingInterfaces\obj\Debug\ChattingInterfaces.csproj.AssemblyReference.cache

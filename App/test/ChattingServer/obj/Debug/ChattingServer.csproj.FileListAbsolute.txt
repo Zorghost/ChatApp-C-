@@ -1,0 +1,26 @@
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\ChattingServer.exe.config
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\ChattingServer.exe
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\ChattingServer.pdb
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\Chat System.exe
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\ChattingInterfaces.dll
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\EntityFramework.dll
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\Database.dll
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\Chat System.pdb
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\Chat System.exe.config
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\ChattingInterfaces.pdb
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\EntityFramework.xml
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\Database.pdb
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\Database.dll.config
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\obj\Debug\ChattingServer.csproj.CoreCompileInputs.cache
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\obj\Debug\ChattingServer.csproj.CopyComplete
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\obj\Debug\ChattingServer.exe
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\obj\Debug\ChattingServer.pdb
+C:\Users\Rayen\Source\Repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\bin\Debug\ChatAppDB.db
+C:\Users\Rayen\source\repos\team-07\Lastenheft Dateien\Test für Pflichtenheft\ChattingServer\obj\Debug\ChattingServer.csproj.AssemblyReference.cache
